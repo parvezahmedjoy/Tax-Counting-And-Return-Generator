@@ -56,13 +56,5 @@ All complete project documentation is included in this repository:
 
 ---
 
-## 👥 Project Team
-
-* **Parvez** – Developer / Contributor[cite: 4]
-* **Ahmed Joy** – Contributor[cite: 4]
-* **Md. Shihab Hossain Khan** – Contributor[cite: 4]
-* **Fariha Meem** – Contributor[cite: 4]
-* **Sabbir Hossain** – Contributor[cite: 4]
-* **Nurul Alam** – Contributor[cite: 4]
 
 *Department of Computer Science, American International University-Bangladesh (AIUB)*[cite: 4]
